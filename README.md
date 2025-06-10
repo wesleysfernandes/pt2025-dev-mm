@@ -7,10 +7,10 @@
 ## Iniciar backend
 
 <p>Dentro da pasta backend:</p>
-<code>mvn spring-boot:run</code>
+<p><code>./mvn spring-boot:run</code></p>
 
 ## Iniciar frontend
 
 <p>Dentro da pasta frontend</p>
-<code>npm i</code>
-<code>npm run dev</code>
+<p><code>npm i</code></p>
+<p><code>npm run dev</code></p>
